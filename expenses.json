@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-10-01",
+    "category": "Food",
+    "amount": 28.5,
+    "description": "Groceries"
+  },
+  {
+    "date": "2024-10-03",
+    "category": "Transport",
+    "amount": 15.0,
+    "description": "Uber ride"
+  },
+  {
+    "date": "2024-10-05",
+    "category": "Entertainment",
+    "amount": 45.0,
+    "description": "Movie night"
+  },
+  {
+    "date": "2024-10-07",
+    "category": "Bills",
+    "amount": 120.0,
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2024-10-10",
+    "category": "Food",
+    "amount": 35.5,
+    "description": "Lunch with friends"
+  },
+  {
+    "date": "2024-10-12",
+    "category": "Bills",
+    "amount": 60.0,
+    "description": "Internet bill"
+  },
+  {
+    "date": "2024-10-15",
+    "category": "Food",
+    "amount": 22.75,
+    "description": "Dinner"
+  },
+  {
+    "date": "2024-10-18",
+    "category": "Transport",
+    "amount": 40.0,
+    "description": "Gas"
+  }
+]
